@@ -7,7 +7,7 @@
 
 ### Схема DAG в Apache Airflow:
 
-<img src="./images/airflow_dag_structure.png" alt="Airflow dag structure" />
+<img src="./images/airflow_dag_structure.png" alt="Airflow dag structure" width="300"/>
 
 ### Технологии:
 
