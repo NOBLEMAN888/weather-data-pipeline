@@ -7,9 +7,7 @@
 
 ### Схема DAG в Apache Airflow:
 
-flowchart TD
-    A["get_weather<br/>(Extract)"] --> B["transform_data<br/>(Transform)<br/>→ XCom"]
-    B --> C["load_to_postgres<br/>(Load)"]
+<img src="./images/airflow_dag_structure.png" alt="Airflow dag structure" />
 
 ### Технологии:
 
